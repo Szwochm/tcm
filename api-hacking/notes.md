@@ -12,6 +12,7 @@ I know from building webpages that API's generally require some sort of token, i
 XSRF token, which is the same name of an attack.. I wonder how they are related or if its simply a coincidental naming
 
 Commands
+
 `curl catfacts.ninja/facts` -- manually get request from webpage
 
 `curl catfacts.nina /facts -v` -- verbose to get headers, etc like you might see in Burpsuite
