@@ -36,5 +36,20 @@ Commands
 
 #### Private API -- e.g. personal company with a website that only that company can use
 
+##### Http Methods
+
+GET -- retrieve resource
+
+POST -- creates a resource
+
+PUT -- update or create within existing resource
+
+PATCH -- partially modify resource
+
+DELETE -- delete resource
+
+### API Security
+
+
 
 
