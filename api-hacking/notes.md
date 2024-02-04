@@ -15,4 +15,4 @@ Commands
 
 `curl catfacts.ninja/facts` -- manually get request from webpage
 
-`curl catfacts.nina /facts -v` -- verbose to get headers, etc like you might see in Burpsuite
+`curl catfacts.nina /facts # -v` -- verbose to get headers, etc like you might see in Burpsuite
