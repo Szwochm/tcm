@@ -50,6 +50,11 @@ DELETE -- delete resource
 
 ### API Security
 
+APIs are often spun up quickly, and constantly updated... this opens doors for potential attacks.
+
+Another potential attack vector is depreciated, or legacy API's that devs forgot about. How would we enumerate these? Would it be with a directory fuzzing tools like WFUZZ?
+
+
 
 
 
