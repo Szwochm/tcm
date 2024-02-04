@@ -54,6 +54,35 @@ APIs are often spun up quickly, and constantly updated... this opens doors for p
 
 Another potential attack vector is depreciated, or legacy API's that devs forgot about. How would we enumerate these? Would it be with a directory fuzzing tools like WFUZZ?
 
+## Lab Setup
+
+### Tool Installation
+
+`git clone https://github.com/Dewalt-arch/pimpmykali`
+
+`/pimpmykali.sh`
+
+Tools used in course -- Burpsuite, Postman, FoxyProxy
+
+#### Installing Postman
+
+Go to website, download
+
+`tar -xvzf Postman`
+
+
+##### Creating a link so you can place a tool anywhere and run it 
+
+`sudo mv Postman /opt` -- can be any folder but opt is traditional
+
+`sudo ln -s /opt/Postman/Postman /usr/bin/postman`
+
+now we can run postman by just using `postman`
+
+
+
+
+
 
 
 
