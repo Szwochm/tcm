@@ -20,12 +20,21 @@ Commands
 ### Types of API
 
 
-Rest API
+#### Rest API
 
 - Client and server must be seperate entities.
 
 - Rest or Restful APIs must use Http Methods
 
 - Requests must be stateless
-
+  
 - They use URI's to identify resources
+  
+#### Public API -- anyone can use (like google maps api)
+
+#### Partner API -- e.g. Engineer company shares api with Architecture company so they can share data
+
+#### Private API -- e.g. personal company with a website that only that company can use
+
+
+
