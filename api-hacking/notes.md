@@ -79,6 +79,14 @@ Go to website, download
 
 now we can run postman by just using `postman`
 
+#### Installing FoxyProxy
+
+Its just an browser extension, presumably for firefox only -- I wonder if a chormium version exists for burpsuite browser.
+
+I wonder why we are doing this when setting up a proxy manually for burpsuite is pretty easy, and the burpsuite browser comes with built in browser proxy
+
+Do assessments using multiple browsers, firefox may react differently than chrome
+
 
 
 
