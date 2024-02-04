@@ -16,3 +16,16 @@ Commands
 `curl catfacts.ninja/facts` -- manually get request from webpage
 
 `curl catfacts.nina /facts -v` -- verbose to get headers, etc like you might see in Burpsuite
+
+### Types of API
+
+
+Rest API
+
+- Client and server must be seperate entities.
+
+- Rest or Restful APIs must use Http Methods
+
+- Requests must be stateless
+
+- They use URI's to identify resources
