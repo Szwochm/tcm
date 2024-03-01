@@ -88,7 +88,14 @@ I wonder why we are doing this when setting up a proxy manually for burpsuite is
 Do assessments using multiple browsers, firefox may react differently than chrome
 
 
+### Burpsuite Introduction
 
+Video just basically walked through some fundamentals but there are some things of note here for me to use
+- Using Scope to focus in on what type of traffic
+- adjusting filters to see more content
+- Using Decoder for base64, and url encoding / decoding
+- burpsuite has extensions, I seen a couple that may help with the OSCP... (Agartha)
+- Comparer can be used for quickly seeing differences between requests
 
 
 
