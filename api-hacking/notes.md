@@ -97,6 +97,13 @@ Video just basically walked through some fundamentals but there are some things 
 - burpsuite has extensions, I seen a couple that may help with the OSCP... (Agartha)
 - Comparer can be used for quickly seeing differences between requests
 
+### Postman Introduction
+
+Workspaces are like projects
+Collections are groups of requests -- you may want to group them based on functionality or some other logical grouping
+
+Many websites provide API endpoint collections that you can import into Postman
+
 
 
 
