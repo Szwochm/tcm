@@ -104,7 +104,25 @@ Collections are groups of requests -- you may want to group them based on functi
 
 Many websites provide API endpoint collections that you can import into Postman
 
+### Docker Introduction
+Setting up crAPI via docker
 
+git clone https://github.com/OWASP/crAPI.git
+
+sudo apt install docker.io
+sudo apt install docker-compose
+
+if --fix-missing error do sudo apt get update --fix-missing
+
+navigate to where docker-compose.yml is located (crapi/deploy/docker) and do
+
+sudo docker-compose up
+Command note: Builds, (re)creates, starts, and attaches to containers for a service.
+Unless they are already running, this command also starts any linked services.
+
+Crapi has two main pages
+localhost:8888 - login page
+localhost:8025 - email
 
 
 
