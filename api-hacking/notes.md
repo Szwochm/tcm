@@ -133,6 +133,8 @@ sudo docker rmi $(sudo docker images -q)
 sudo docker volume rm $(sudo docker volume ls -q)
 sudo docker network rm $(sudo docker network ls -q)`
 
+## Enumerating APIS
+
 ### Introduction to Enumeration
 
 
