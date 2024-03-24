@@ -145,6 +145,13 @@ Can you find different versions of end points? Do different versions offer diffe
 
 Fuzzing can crash your server
 
+#### Source Code
+
+Briefly review code to find the following
+
+Endpoints -- compare this to post man file to see which ones are different / missing
+
+Figure out payloads for end points. Differnt endpoints may use Java, Go, etc...
 
 
 
