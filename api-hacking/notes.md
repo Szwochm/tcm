@@ -137,6 +137,8 @@ sudo docker network rm $(sudo docker network ls -q)`
 
 ### Introduction to Enumeration
 
+#### Fuzzing APIS
+
 Most websites have some sort of API endpoint documentation somewhere. Find it
 
 Can you find different versions of end points? Do different versions offer different information for the same parameters?
